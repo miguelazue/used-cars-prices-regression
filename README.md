@@ -50,4 +50,5 @@ The models were evaluated based on their Root Mean Squared Error (RMSE) performa
 - **Gradient Boosting Regressor** using `GradientBoostingRegressor` from `sklearn.ensemble` and Grid Search - RMSE on test: 68,178.98
 
 #### Competition Outcome:
-Final Kaggle leaderboard position: **1491 out of 3068 participants**.
+
+Final Kaggle leaderboard position: **1491 out of 3068 participants**, ranking in the **top half** of all participants (placing within the **top 48%** of competitors).
